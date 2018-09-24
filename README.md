@@ -25,7 +25,7 @@ In order to run the application you can:
 * Clone or fork this project:
 
     ```
-    $ git clone https://github.com/stearruda/arcade-game.git
+    $ git clone https://github.com/stearruda/fend-feed-reader-testing.git
     ```
 After that, open the `index.html` and check the test results.
 
